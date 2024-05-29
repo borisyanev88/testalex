@@ -1,3 +1,3 @@
 module "test" {
-  source = ./boris
+  source = "./boris"
 }
